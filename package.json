@@ -10,7 +10,7 @@
         "start": "npm run build && nodemon server/index.js"
     },
     "engines": {
-        "node": "^14.20.1"
+        "node": "14.20.1"
     },
     "keywords": [],
     "author": "Toni Jukica",
